@@ -8,7 +8,9 @@ RUN apt update -y && apt upgrade -y
 WORKDIR /usr/src/app/
 
 COPY . .
-RUN apt install -y -q $(cat ./dependencies.conf) --fix-missing
+RUN rm Dockerfile
+RUN apt install -y -q git --fix-missing
+RUN apt install -y -q $(cat dependencies.conf) --fix-missing
 
 RUN git clone https://github.com/jernst98/ChromHMM.git
 
