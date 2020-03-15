@@ -6,7 +6,7 @@ CMFT="toBeDetermined"
 OBD="../Data/binarized/"
 
 #Pull BED files from repositories
-wget -P ../Data/compressed ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621387/suppl/GSM621387_BI.Fetal_Lung.H3K36me3.UW_H-22727.bed.gz
+wget -P ../DATA/compressed -i ../DATA/sources.config
 
 #Extract BED files from compressed format
 for f in ../Data/compressed/*.gz; do
