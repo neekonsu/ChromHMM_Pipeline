@@ -16,4 +16,8 @@ done
 
 #Binarize BED files from raw format
 
-#java -mx4000M -jar /usr/src/app/ChromHMM/ChromHMM.jar BinarizeBed chromosomelengthfile $CLF inputbeddir $IBD cellmarkfiletable $CMFT outputbinarydir $OBD
+java -mx4000M -jar /usr/src/app/ChromHMM/ChromHMM.jar BinarizeBed chromosomelengthfile /usr/src/app/ChromHMM/CHROMSIZES/hg19.txt inputbeddir /usr/src/app/DATA/raw/ cellmarkfiletable /usr/src/app/DATA/CELLMARKFILETABLE/CMFT.txt outputbinarydir /usr/src/app/DATA/binarized/
+
+#Learn ChromHMM model with default parameters
+
+java -mx1600M -jar /usr/src/app/ChromHMM/ChromHMM.jar LearnModel /usr/src/app/DATA/BINARIZED/ OUTPUTSAMPLE 15 hg19
