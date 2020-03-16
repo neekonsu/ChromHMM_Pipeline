@@ -16,4 +16,4 @@ done
 
 #Binarize BED files from raw format
 
-java -mx4000M -jar ../ChromHMM/ChromHMM.jar BinarizeBed chromosomelengthfile $CLF inputbeddir $IBD cellmarkfiletable $CMFT outputbinarydir $OBD
+#java -mx4000M -jar ../ChromHMM/ChromHMM.jar BinarizeBed chromosomelengthfile $CLF inputbeddir $IBD cellmarkfiletable $CMFT outputbinarydir $OBD
