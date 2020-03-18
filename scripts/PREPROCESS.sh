@@ -8,10 +8,10 @@ OBD="/usr/src/app/DATA/binarized/"
 
 #Check if compressed directory is empty
 if [ "$(ls -A $COMPRESSED)" ]; then
-  echo "✗ $COMPRESSED is not Empty, skipping dataset retreival"
+  echo "✗ $(echo $COMPRESSED) is not Empty, skipping dataset retreival"
   sleep 1
 else
-  echo "$DIR is Empty, retreiving dataset"
+  echo "$(echo $COMPRESSED) is Empty, retreiving dataset"
   sleep 1
   #Pull BED files from repositories; into /usr/src/app/DATA/compressed
   wget -P $COMPRESSED -i /usr/src/app/DATA/sources.config
