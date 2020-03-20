@@ -27,8 +27,16 @@ else
   done
 fi
 
-#Binarize BED files from raw format
-java -mx4000M -jar /usr/src/app/ChromHMM/ChromHMM.jar BinarizeBed $CLF $IBD $CMFT $OBD
+#Check if binarized files exist
+if [ "$(ls -A $OBD)" ]; then
+        echo "✗ $(echo $OBD) is not Empty, skipping dataset retreival"
+        sleep .5
+else
+        echo "$(echo $OBD) is Empty, retreiving dataset"
+        sleep .5
+        #Binarize BED files from raw format
+        java -mx4000M -jar /usr/src/app/ChromHMM/ChromHMM.jar BinarizeBed -gzip $CLF $IBD $CMFT $OBD
+fi
 
 #Learn ChromHMM model with default parameters
-java -mx1600M -jar /usr/src/app/ChromHMM/ChromHMM.jar LearnModel $OBD $OUTPUTSAMPLE 15 hg19
+java -mx1600M -jar /usr/src/app/ChromHMM/ChromHMM.jar LearnModel -gzip -p 0 $OBD $OUTPUTSAMPLE 15 hg19
