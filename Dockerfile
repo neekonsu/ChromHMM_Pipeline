@@ -13,5 +13,6 @@ RUN apt install -y -q git --fix-missing
 RUN apt install -y -q $(cat dependencies.conf) --fix-missing
 
 RUN git clone https://github.com/jernst98/ChromHMM.git
+RUN chmod +x /usr/src/app/scripts/PREPROCESS.sh
 
 EXPOSE 5000

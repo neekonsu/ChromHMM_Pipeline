@@ -1,11 +1,11 @@
 #!/bin/sh
 #Set Directory vars: CLF=ChromosomeLengthFile IBD=InputBedDir CMFT=CellMarksFileTable OBD=OutputBedDir
-COMPRESSED="/usr/src/app/DATA/compressed/"
+COMPRESSED="/usr/src/app/DATA/compressed"
 CLF="/usr/src/app/ChromHMM/CHROMSIZES/hg19.txt"
-IBD="/usr/src/app/DATA/raw/"
+IBD="/usr/src/app/DATA/raw"
 CMFT="/usr/src/app/DATA/CELLMARKFILETABLE/CMFT.tsv"
-OBD="/usr/src/app/DATA/BINARIZED/"
-OUTPUTSAMPLE="/usr/src/app/DATA/OUTPUTSAMPLE/"
+OBD="/usr/src/app/DATA/BINARIZED"
+OUTPUTSAMPLE="/usr/src/app/DATA/OUTPUTSAMPLE"
 
 #Check if compressed directory is empty
 if [ "$(ls -A $COMPRESSED)" ]; then
