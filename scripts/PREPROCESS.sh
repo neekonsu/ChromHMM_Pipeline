@@ -1,9 +1,10 @@
 #!/bin/sh
 #Set Directory vars: CLF=ChromosomeLengthFile IBD=InputBedDir CMFT=CellMarksFileTable OBD=OutputBedDir
 COMPRESSED="/usr/src/app/DATA/compressed"
+SOURCES="/usr/src/app/DATA/sources.conf"
 CLF="/usr/src/app/ChromHMM/CHROMSIZES/hg19.txt"
 IBD="/usr/src/app/DATA/raw"
-CMFT="/usr/src/app/DATA/CELLMARKFILETABLE/CMFT.tsv"
+CMFT="/usr/src/app/DATA/CELLMARKFILETABLE/cmft.tsv"
 OBD="/usr/src/app/DATA/BINARIZED"
 OUTPUTSAMPLE="/usr/src/app/DATA/OUTPUTSAMPLE"
 
@@ -15,7 +16,7 @@ else
         echo "$(echo $COMPRESSED) is Empty, retreiving dataset"
   sleep 1
   #Pull BED files from repositories; into /usr/src/app/DATA/compressed
-  wget -P $COMPRESSED -i /usr/src/app/DATA/sources.config
+  wget -P $COMPRESSED -i $SOURCES
   sleep .5
   echo "✓ Finished retreival, decompressing into $IBD"
   sleep 1

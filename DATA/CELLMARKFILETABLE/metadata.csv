@@ -1,55 +1,97 @@
-GSM910555,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910555/suppl/
-GSM910561,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910561/suppl/
-GSM910568,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910568/suppl/
-GSM910574,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910574/suppl/
-GSM910579,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910579/suppl/
-GSM910585,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910585/suppl/
-GSM956032,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM956nnn/GSM956032/suppl/
-GSM1013122,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013122/suppl/
-GSM1013128,SAMN01737668,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013128/suppl/
-GSM1013147,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013147/suppl/
-GSM1013159,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013159/suppl/
-GSM1013164,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013164/suppl/
-GSM1013170,SAMN01737668,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013170/suppl/
-GSM1127180,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1127nnn/GSM1127180/suppl/
-GSM537695,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537695/suppl/
-GSM537697,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537697/suppl/
-GSM537698,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537698/suppl/
-GSM537699,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537699/suppl/
-GSM537705,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537705/suppl/
-GSM537706,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537706/suppl/
-GSM537707,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537707/suppl/
-GSM537708,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537708/suppl/
-GSM537709,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537709/suppl/
-GSM537710,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537710/suppl/
-GSM621629,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621629/suppl/
-GSM621630,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621630/suppl/
-GSM621654,SAMN00119938,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621654/suppl/
-GSM621675,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621675/suppl/
-GSM669910,SAMN00119938,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669910/suppl/
-GSM669931,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669931/suppl/
-GSM669972,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669972/suppl/
-GSM669986,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669986/suppl/
-GSM670008,SAMN00205677,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM670nnn/GSM670008/suppl/
-GSM1059442,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059442/suppl/
-GSM1059451,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059451/suppl/
-GSM1059458,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059458/suppl/
-GSM1112808,SAMN00205677,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112808/suppl/
-GSM1112809,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112809/suppl/
-GSM1112814,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112814/suppl/
-GSM1120361,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120361/suppl/
-GSM621395,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621395/suppl/
-GSM621403,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621403/suppl/
-GSM621406,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621406/suppl/
-GSM621421,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621421/suppl/
-GSM621432,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621432/suppl/
-GSM621445,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621445/suppl/
-GSM621460,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621460/suppl/
-GSM772889,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM772nnn/GSM772889/suppl/
-GSM772890,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM772nnn/GSM772890/suppl/
-GSM916016,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916016/suppl/
-GSM916017,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916017/suppl/
-GSM916018,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916018/suppl/
-GSM916019,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916019/suppl/
-GSM916020,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916020/suppl/
-GSM1112790,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112790/suppl/
+GEO Accession (Assay),BioSample ID (Tissue),Source,Experiment,Tissue Diseasing,Sex,DONOR_ID,DONOR_AGE,DONOR_HEALTH_STATUS,DONOR_ETHNICITY,sample_term_id,Tissue Type
+GSM1013165,SAMN01737662,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013165/suppl/,ChIP-Seq input,none,Male,STL001,3,"healthy, no prior medical history (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian and African American,UBERON_0002048,Lung
+GSM906417,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM906nnn/GSM906417/suppl/,ChIP-Seq input,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM956031,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM956nnn/GSM956031/suppl/,ChIP-Seq input,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM1013123,SAMN01737662,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013123/suppl/,H3K27ac,none,Male,STL001,3,"healthy, no prior medical history (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian and African American,UBERON_0002048,Lung
+GSM906395,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM906nnn/GSM906395/suppl/,H3K27ac,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM1059437,SAMN01737662,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059437/suppl/,H3K36me3,none,Male,STL001,3,"healthy, no prior medical history (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian and African American,UBERON_0002048,Lung
+GSM956014,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM956nnn/GSM956014/suppl/,H3K36me3,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM1059443,SAMN01737662,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059443/suppl/,H3K4me1,none,Male,STL001,3,"healthy, no prior medical history (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian and African American,UBERON_0002048,Lung
+GSM910572,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910572/suppl/,H3K4me1,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM915336,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM915nnn/GSM915336/suppl/,H3K4me3,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM1120355,SAMN01737662,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120355/suppl/,H3K9me3,none,Male,STL001,3,"healthy, no prior medical history (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian and African American,UBERON_0002048,Lung
+GSM906411,SAMN00849926,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM906nnn/GSM906411/suppl/,H3K9me3,"iron deficiency, bipolar",female,STL002,30,"iron deficiency, bipolar disease (NO diabetes, hypertension, coronary artery disease, cancer)",Caucasian,UBERON_0002048,Lung
+GSM910555,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910555/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM910561,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910561/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM910568,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910568/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM910574,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910574/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM910579,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910579/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM910585,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910585/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM956032,SAMN00849927,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM956nnn/GSM956032/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1013122,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013122/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1013128,SAMN01737668,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013128/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1013147,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013147/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1013159,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013159/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1013164,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013164/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1013170,SAMN01737668,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013170/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM1127180,SAMN01737661,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1127nnn/GSM1127180/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000945,gastric
+GSM537695,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537695/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537697,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537697/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537698,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537698/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537699,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537699/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537705,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537705/suppl/,H3K9ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537706,SAMN00012131,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537706/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537707,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537707/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537708,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537708/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537709,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537709/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM537710,SAMN00012133,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM537nnn/GSM537710/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM621629,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621629/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM621630,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621630/suppl/,H3K9ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM621654,SAMN00119938,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621654/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM621675,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621675/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM669910,SAMN00119938,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669910/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM669931,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669931/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM669972,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669972/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM669986,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM669nnn/GSM669986/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM670008,SAMN00205677,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM670nnn/GSM670008/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1059442,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059442/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1059451,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059451/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1059458,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1059nnn/GSM1059458/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1112808,SAMN00205677,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112808/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1112809,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112809/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1112814,SAMN00119932,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112814/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM1120361,SAMN01881963,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120361/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002107,liver
+GSM621395,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621395/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621403,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621403/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621406,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621406/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621421,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621421/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621432,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621432/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621445,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621445/suppl/,H3K9ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621460,SAMN00119950,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621460/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM772889,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM772nnn/GSM772889/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM772890,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM772nnn/GSM772890/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM916016,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916016/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM916017,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916017/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM916018,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916018/suppl/,H3K9ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM916019,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916019/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM916020,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916020/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM1112790,SAMN00691467,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112790/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000320,duodenum mucosa
+GSM621668,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621668/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM621669,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621669/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM621670,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621670/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM621671,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621671/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM621672,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621672/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM621673,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621673/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM621674,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM621nnn/GSM621674/suppl/,H3K9ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916042,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916042/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916043,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916043/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916044,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916044/suppl/,H3K9ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916045,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916045/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916046,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916046/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916047,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916047/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM916048,SAMN00857852,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM916nnn/GSM916048/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM1112779,SAMN01997267,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112779/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM1112802,SAMN00119942,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1112nnn/GSM1112802/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0000317,colonic mucosa
+GSM1120365,SAMN01737671,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120365/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM915337,SAMN00849925,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM915nnn/GSM915337/suppl/,ChIP-Seq input,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM1013131,SAMN01737671,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013131/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM1127172,SAMN00847542,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1127nnn/GSM1127172/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM915330,SAMN00849925,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM915nnn/GSM915330/suppl/,H3K27ac,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM915332,SAMN00849925,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM915nnn/GSM915332/suppl/,H3K27me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM1120347,SAMN01737671,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120347/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM910565,SAMN00849925,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM910nnn/GSM910565/suppl/,H3K36me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM1120350,SAMN01737671,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120350/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM956019,SAMN00849925,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM956nnn/GSM956019/suppl/,H3K4me1,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM906407,SAMN00847542,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM906nnn/GSM906407/suppl/,H3K4me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM1013160,SAMN00849925,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1013nnn/GSM1013160/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
+GSM1120360,SAMN01737671,ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM1120nnn/GSM1120360/suppl/,H3K9me3,TBD,TBD,TBD,TBD,TBD,TBD,UBERON_0002108,small intestine
