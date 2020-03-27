@@ -40,4 +40,4 @@ else
 fi
 
 #Learn ChromHMM model with default parameters
-java -mx1600M -jar /usr/src/app/ChromHMM/ChromHMM.jar LearnModel -p 0 $OBD $OUTPUTSAMPLE 10 hg19
+java -mx1600M -jar /usr/src/app/ChromHMM/ChromHMM.jar LearnModel $OBD $OUTPUTSAMPLE 10 hg19
