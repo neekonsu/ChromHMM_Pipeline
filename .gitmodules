@@ -1,0 +1,3 @@
+[submodule "metadata_to_cmft"]
+	path = metadata_to_cmft
+	url = https://github.com/neekonsu/metadata_to_cmft
