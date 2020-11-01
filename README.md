@@ -1,11 +1,11 @@
 # ChromHMM_Pipeline
 Docker Environment and file-structure for ChromHMM Pipeline
 ## To Run:
-`$  docker pull neekonsu/pipeline:latest`
-`$  docker run -it neekonsu/pipeline:latest`
-`$  cd /usr/src/app/scripts`
-`$  chmod +x PREPROCESSING.sh`
-`$  ./PREPROCESSING.sh`
+    $  docker pull neekonsu/pipeline:latest
+    $  docker run -it neekonsu/pipeline:latest
+    $  cd /usr/src/app/scripts
+    $  chmod +x PREPROCESSING.sh
+    $  ./PREPROCESSING.sh
 
 # This project is an implementation of the following submodule
 # metadata_to_cmft: prepare IHEC and Roadmap data for ChromHMM
