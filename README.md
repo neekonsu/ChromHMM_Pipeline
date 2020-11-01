@@ -19,7 +19,7 @@ The ChromHMM pipeline has specific metadata requirements in order to function pr
 
     cellmarkfiletable – A tab delimited file each row contains the cell type or other identifier for a groups of marks,
     then the associated mark, then the name of a bed file, and optionally a corresponding control bed file
-`
+
     (Cell) (Mark) (Assay File)    (Control File) ~> Hence "Cell Mark File Table"
     cell1  mark1 cell1_mark1.bed cell1_control.bed
     cell1  mark2 cell1_mark2.bed cell1_control.bed
