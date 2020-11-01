@@ -7,7 +7,7 @@ Docker Environment and file-structure for ChromHMM Pipeline
 `$  chmod +x PREPROCESSING.sh`
 `$  ./PREPROCESSING.sh`
 
-# This project is an implementation of then following submodule
+# This project is an implementation of the following submodule
 # metadata_to_cmft: prepare IHEC and Roadmap data for ChromHMM
 (Scrape BED filenames and hyperlinks from GEO-NCBI ftp server)
 
