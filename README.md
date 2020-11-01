@@ -30,4 +30,5 @@ In order to generate this metadata format, we need to sort our datasets by tissu
 
 ## To Run
     go build metadata_to_cmft.go && ./metadata_to_cmft "path/to/LeanContext.csv"
+![Gif Of CLI](./res/run.gif)
 
